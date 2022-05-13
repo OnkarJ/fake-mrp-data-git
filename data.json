@@ -1,0 +1,116 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Jane Rooms",
+      "email": "jane@rooms.com",
+      "phoneNumber": "9108654321",
+      "comment": "Loyal customer"
+    },
+    {
+      "id": 2,
+      "name": "Rob Decor",
+      "email": "rob.decor@gmail.com",
+      "phoneNumber": "9165454321",
+      "comment": "Always late with payments"
+    },
+    {
+      "id": 3,
+      "name": "Jack Carpets",
+      "email": "jack253@gmail.com",
+      "phoneNumber": "",
+      "comment": "Call when products are shipped"
+    },
+    {
+      "id": 4,
+      "name": "John Tabletop",
+      "email": "john@tabletop.com",
+      "phoneNumber": "9876543210",
+      "comment": ""
+    },
+    {
+      "id": 5,
+      "name": "Mary Lights",
+      "email": "mary.lights@gmail.com",
+      "phoneNumber": "99987632652",
+      "comment": "+5 days to standard delivery time"
+    }
+  ],
+  "suppliers": [
+    {
+      "supplierId": 1,
+      "name": "Paint Supplier",
+      "email": "paint.suppliert@dummy.com",
+      "phoneNumber": "9108654321",
+      "comment": "Reliable supplier, always on time"
+    },
+    {
+      "supplierId": 2,
+      "name": "Furniture Crafting Products",
+      "email": "furniture.crafting@dummy.com",
+      "phoneNumber": "9165454321",
+      "comment": "Send a purchase order on paper"
+    },
+    {
+      "supplierId": 3,
+      "name": "Wood Supplier",
+      "email": "wood.supplier@dummy.com",
+      "phoneNumber": "",
+      "comment": "Good quality"
+    }
+  ],
+  "operations": [
+    {
+      "id": 1,
+      "name": "Cutting [DEMO]"
+    },
+    {
+      "id": 2,
+      "name": "Gluing [DEMO]"
+    },
+    {
+      "id": 3,
+      "name": "Assembly [DEMO]"
+    },
+    {
+      "id": 4,
+      "name": "Packaging [DEMO]"
+    },
+    {
+      "id": 5,
+      "name": "Deploying"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "name": "Mary [DEMO]",
+      "costPerHour": 15
+    },
+    {
+      "id": 2,
+      "name": "Table Saw [DEMO]",
+      "costPerHour": 10
+    },
+    {
+      "id": 3,
+      "name": "Paint Booth [DEMO]",
+      "costPerHour": 15
+    },
+    {
+      "id": 4,
+      "name": "Assembly Station [DEMO]",
+      "costPerHour": 10
+    },
+    {
+      "id": 5,
+      "name": "Packaging Desk [DEMO]",
+      "costPerHour": 10
+    },
+    {
+      "id": 6,
+      "name": "Deploying",
+      "costPerHour": "12"
+    }
+  ]
+}
